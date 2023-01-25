@@ -1,3 +1,3 @@
 # Resources Repo
 
-A repo for WHIP-related items.
+A repo for WISH-related items.
